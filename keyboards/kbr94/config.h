@@ -10,8 +10,8 @@
 #define PRODUCT         KBR94
 
 /* key matrix size */
-#define MATRIX_ROWS 6
-#define MATRIX_COLS 17
+#define MATRIX_ROWS 7
+#define MATRIX_COLS 15
 
 /* key matrix pins */
 #define MATRIX_ROW_PINS { B0, B1, B2, B3, D4, F0, E6}

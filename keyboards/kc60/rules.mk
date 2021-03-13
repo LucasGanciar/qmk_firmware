@@ -21,5 +21,6 @@ RGBLIGHT_ENABLE = no        # Enable keyboard RGB underglow
 BLUETOOTH_ENABLE = no       # Enable Bluetooth
 AUDIO_ENABLE = no           # Audio output
 KEYBOARD_LOCK_ENABLE = yes  # Allow locking of keyboard via magic key
+BOOTMAGIC_ENABLE = full
 
 LAYOUTS = 60_ansi
